@@ -24,6 +24,10 @@ Your DX project follows this structure:
 
 See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm).
 
+## MVP Phase ERD
+<img width="2929" height="8192" alt="MVP Phase ERD" src="https://github.com/user-attachments/assets/f0993203-90b2-4b2f-ba9c-48bffb6e55dc" />
+
+
 ## Get Started
 
 Ready to start developing? The [Get Started with Salesforce DX](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_get_started_dx.htm) guide walks you through your first project, from creating a scratch org to creating a simple Apex class or LWC to deploying your code to a sandbox.
